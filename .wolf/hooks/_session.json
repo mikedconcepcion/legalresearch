@@ -1,0 +1,492 @@
+{
+  "session_id": "session-2026-05-04-1624",
+  "started": "2026-05-04T08:24:31.973Z",
+  "files_read": {
+    "E:/Legal_Research/CLAUDE.md": {
+      "count": 1,
+      "tokens": 57,
+      "first_read": "2026-05-04T08:29:02.742Z"
+    },
+    "E:/Legal_Research/vite.config.ts": {
+      "count": 2,
+      "tokens": 63,
+      "first_read": "2026-05-04T08:33:04.877Z"
+    },
+    "E:/Legal_Research/src/index.css": {
+      "count": 1,
+      "tokens": 0,
+      "first_read": "2026-05-04T08:33:05.132Z"
+    },
+    "E:/Legal_Research/src/App.tsx": {
+      "count": 3,
+      "tokens": 1983,
+      "first_read": "2026-05-04T08:36:39.372Z"
+    },
+    "E:/Legal_Research/index.html": {
+      "count": 2,
+      "tokens": 101,
+      "first_read": "2026-05-04T08:37:24.573Z"
+    },
+    "E:/Legal_Research/src/main.tsx": {
+      "count": 1,
+      "tokens": 0,
+      "first_read": "2026-05-04T08:39:31.922Z"
+    },
+    "E:/Legal_Research/src/data/cases.json": {
+      "count": 7,
+      "tokens": 41485,
+      "first_read": "2026-05-04T08:42:56.982Z"
+    },
+    "E:/Legal_Research/src/utils/searchEngine.ts": {
+      "count": 2,
+      "tokens": 948,
+      "first_read": "2026-05-04T21:54:06.345Z"
+    },
+    "E:/Legal_Research/src/components/SearchBar.tsx": {
+      "count": 4,
+      "tokens": 1700,
+      "first_read": "2026-05-04T21:54:27.875Z"
+    },
+    "E:/Legal_Research/src/hooks/useSearch.ts": {
+      "count": 2,
+      "tokens": 352,
+      "first_read": "2026-05-04T21:54:28.352Z"
+    },
+    "E:/Legal_Research/src/types/case.ts": {
+      "count": 2,
+      "tokens": 148,
+      "first_read": "2026-05-04T21:54:28.671Z"
+    },
+    "E:/Legal_Research/src/pages/HomePage.tsx": {
+      "count": 5,
+      "tokens": 3577,
+      "first_read": "2026-05-04T22:27:38.339Z"
+    },
+    "E:/Legal_Research/src/components/Layout.tsx": {
+      "count": 4,
+      "tokens": 1740,
+      "first_read": "2026-05-04T22:27:38.895Z"
+    },
+    "E:/Legal_Research/src/pages/CasePage.tsx": {
+      "count": 5,
+      "tokens": 4818,
+      "first_read": "2026-05-04T22:27:39.370Z"
+    },
+    "E:/Legal_Research/src/components/CaseCard.tsx": {
+      "count": 1,
+      "tokens": 456,
+      "first_read": "2026-05-04T22:27:46.172Z"
+    },
+    "E:/Legal_Research/src/pages/SearchPage.tsx": {
+      "count": 2,
+      "tokens": 852,
+      "first_read": "2026-05-04T22:27:46.732Z"
+    },
+    "E:/Legal_Research/src/pages/TopicPage.tsx": {
+      "count": 1,
+      "tokens": 860,
+      "first_read": "2026-05-04T22:27:47.036Z"
+    },
+    "E:/Legal_Research/public/decisions/gr-208566-2013.txt": {
+      "count": 2,
+      "tokens": 0,
+      "first_read": "2026-05-04T22:51:27.870Z"
+    },
+    "E:/Legal_Research/scripts/scrape-lawphil.mjs": {
+      "count": 3,
+      "tokens": 2995,
+      "first_read": "2026-05-04T22:55:49.718Z"
+    },
+    "E:/Legal_Research/.gitignore": {
+      "count": 1,
+      "tokens": 0,
+      "first_read": "2026-05-04T23:40:18.839Z"
+    }
+  },
+  "files_written": [
+    {
+      "file": "C:/Users/miked/.claude/plans/temporal-wibbling-nygaard.md",
+      "action": "create",
+      "tokens": 842,
+      "at": "2026-05-04T08:30:17.744Z"
+    },
+    {
+      "file": "E:/Legal_Research/vite.config.ts",
+      "action": "create",
+      "tokens": 63,
+      "at": "2026-05-04T08:33:11.524Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/index.css",
+      "action": "create",
+      "tokens": 7,
+      "at": "2026-05-04T08:33:12.163Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/types/case.ts",
+      "action": "create",
+      "tokens": 148,
+      "at": "2026-05-04T08:33:26.396Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/data/cases.json",
+      "action": "create",
+      "tokens": 8608,
+      "at": "2026-05-04T08:36:08.026Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/App.tsx",
+      "action": "create",
+      "tokens": 1535,
+      "at": "2026-05-04T08:37:03.792Z"
+    },
+    {
+      "file": "E:/Legal_Research/index.html",
+      "action": "edit",
+      "tokens": 13,
+      "at": "2026-05-04T08:37:29.691Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/utils/searchEngine.ts",
+      "action": "create",
+      "tokens": 948,
+      "at": "2026-05-04T08:40:15.775Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/hooks/useSearch.ts",
+      "action": "create",
+      "tokens": 352,
+      "at": "2026-05-04T08:40:24.964Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/SearchBar.tsx",
+      "action": "create",
+      "tokens": 1579,
+      "at": "2026-05-04T08:40:49.218Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/App.tsx",
+      "action": "create",
+      "tokens": 1983,
+      "at": "2026-05-04T08:41:21.359Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/data/cases.json",
+      "action": "edit",
+      "tokens": 11047,
+      "at": "2026-05-04T08:46:22.313Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/utils/helpers.ts",
+      "action": "create",
+      "tokens": 597,
+      "at": "2026-05-04T21:58:09.993Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/Layout.tsx",
+      "action": "create",
+      "tokens": 978,
+      "at": "2026-05-04T21:58:23.528Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/CaseCard.tsx",
+      "action": "create",
+      "tokens": 456,
+      "at": "2026-05-04T21:58:40.163Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/Sidebar.tsx",
+      "action": "create",
+      "tokens": 898,
+      "at": "2026-05-04T21:58:50.881Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/HomePage.tsx",
+      "action": "create",
+      "tokens": 1342,
+      "at": "2026-05-04T21:59:28.119Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/SearchPage.tsx",
+      "action": "create",
+      "tokens": 852,
+      "at": "2026-05-04T21:59:36.381Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/CasePage.tsx",
+      "action": "create",
+      "tokens": 1899,
+      "at": "2026-05-04T22:00:07.792Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/TopicPage.tsx",
+      "action": "create",
+      "tokens": 860,
+      "at": "2026-05-04T22:00:15.690Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/SearchBar.tsx",
+      "action": "create",
+      "tokens": 1519,
+      "at": "2026-05-04T22:00:42.844Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/App.tsx",
+      "action": "create",
+      "tokens": 274,
+      "at": "2026-05-04T22:00:51.458Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/data/cases.json",
+      "action": "edit",
+      "tokens": 9505,
+      "at": "2026-05-04T22:06:16.175Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/utils/categories.ts",
+      "action": "create",
+      "tokens": 1746,
+      "at": "2026-05-04T22:28:40.364Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/HomePage.tsx",
+      "action": "create",
+      "tokens": 3536,
+      "at": "2026-05-04T22:29:43.705Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/Layout.tsx",
+      "action": "create",
+      "tokens": 1740,
+      "at": "2026-05-04T22:30:16.998Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/CaseCard.tsx",
+      "action": "create",
+      "tokens": 856,
+      "at": "2026-05-04T22:30:36.277Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/CasePage.tsx",
+      "action": "create",
+      "tokens": 3516,
+      "at": "2026-05-04T22:31:31.836Z"
+    },
+    {
+      "file": "E:/Legal_Research/index.html",
+      "action": "edit",
+      "tokens": 78,
+      "at": "2026-05-04T22:31:43.226Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/SearchBar.tsx",
+      "action": "create",
+      "tokens": 1690,
+      "at": "2026-05-04T22:32:13.847Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/data/cases.json",
+      "action": "edit",
+      "tokens": 13079,
+      "at": "2026-05-04T22:39:29.253Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/types/case.ts",
+      "action": "edit",
+      "tokens": 27,
+      "at": "2026-05-04T22:49:51.019Z"
+    },
+    {
+      "file": "E:/Legal_Research/scripts/scrape-lawphil.mjs",
+      "action": "create",
+      "tokens": 2792,
+      "at": "2026-05-04T22:51:06.958Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/CasePage.tsx",
+      "action": "edit",
+      "tokens": 418,
+      "at": "2026-05-04T22:52:36.479Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/CasePage.tsx",
+      "action": "edit",
+      "tokens": 1580,
+      "at": "2026-05-04T22:53:10.002Z"
+    },
+    {
+      "file": "E:/Legal_Research/scripts/scrape-lawphil.mjs",
+      "action": "edit",
+      "tokens": 1050,
+      "at": "2026-05-04T22:57:06.893Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/DecisionText.tsx",
+      "action": "create",
+      "tokens": 860,
+      "at": "2026-05-04T22:58:30.140Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/CasePage.tsx",
+      "action": "edit",
+      "tokens": 46,
+      "at": "2026-05-04T22:58:48.334Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/CasePage.tsx",
+      "action": "edit",
+      "tokens": 66,
+      "at": "2026-05-04T22:58:57.705Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/CasePage.tsx",
+      "action": "edit",
+      "tokens": 10,
+      "at": "2026-05-04T22:59:09.508Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/CasePage.tsx",
+      "action": "edit",
+      "tokens": 49,
+      "at": "2026-05-04T22:59:16.233Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/CasePage.tsx",
+      "action": "edit",
+      "tokens": 48,
+      "at": "2026-05-04T22:59:22.771Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/CasePage.tsx",
+      "action": "edit",
+      "tokens": 36,
+      "at": "2026-05-04T22:59:29.099Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/utils/searchEngine.ts",
+      "action": "create",
+      "tokens": 1529,
+      "at": "2026-05-04T23:01:40.528Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/HomePage.tsx",
+      "action": "edit",
+      "tokens": 75,
+      "at": "2026-05-04T23:03:08.690Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/SearchBar.tsx",
+      "action": "edit",
+      "tokens": 91,
+      "at": "2026-05-04T23:03:26.331Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/SearchBar.tsx",
+      "action": "edit",
+      "tokens": 41,
+      "at": "2026-05-04T23:03:32.334Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/SearchBar.tsx",
+      "action": "edit",
+      "tokens": 170,
+      "at": "2026-05-04T23:03:45.706Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/HomePage.tsx",
+      "action": "edit",
+      "tokens": 130,
+      "at": "2026-05-04T23:03:59.309Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/pages/HomePage.tsx",
+      "action": "edit",
+      "tokens": 30,
+      "at": "2026-05-04T23:04:21.761Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/components/Layout.tsx",
+      "action": "edit",
+      "tokens": 105,
+      "at": "2026-05-04T23:08:16.328Z"
+    },
+    {
+      "file": "E:/Legal_Research/src/data/cases.json",
+      "action": "edit",
+      "tokens": 13524,
+      "at": "2026-05-04T23:17:39.329Z"
+    },
+    {
+      "file": "E:/Legal_Research/scripts/scrape-lawphil.mjs",
+      "action": "edit",
+      "tokens": 428,
+      "at": "2026-05-04T23:18:14.353Z"
+    },
+    {
+      "file": "E:/Legal_Research/scripts/scrape-lawphil.mjs",
+      "action": "edit",
+      "tokens": 17,
+      "at": "2026-05-04T23:21:09.396Z"
+    },
+    {
+      "file": "E:/Legal_Research/scripts/scrape-lawphil.mjs",
+      "action": "edit",
+      "tokens": 17,
+      "at": "2026-05-04T23:21:15.747Z"
+    },
+    {
+      "file": "E:/Legal_Research/scripts/scrape-lawphil.mjs",
+      "action": "edit",
+      "tokens": 17,
+      "at": "2026-05-04T23:21:21.576Z"
+    },
+    {
+      "file": "E:/Legal_Research/vite.config.ts",
+      "action": "edit",
+      "tokens": 8,
+      "at": "2026-05-04T23:39:50.011Z"
+    },
+    {
+      "file": "E:/Legal_Research/.github/workflows/deploy.yml",
+      "action": "create",
+      "tokens": 206,
+      "at": "2026-05-04T23:40:13.923Z"
+    },
+    {
+      "file": "E:/Legal_Research/.gitignore",
+      "action": "edit",
+      "tokens": 12,
+      "at": "2026-05-04T23:40:27.163Z"
+    }
+  ],
+  "edit_counts": {
+    "C:/Users/miked/.claude/plans/temporal-wibbling-nygaard.md": 1,
+    "vite.config.ts": 2,
+    "src/index.css": 1,
+    "src/types/case.ts": 2,
+    "src/data/cases.json": 5,
+    "src/App.tsx": 3,
+    "index.html": 2,
+    "src/utils/searchEngine.ts": 2,
+    "src/hooks/useSearch.ts": 1,
+    "src/components/SearchBar.tsx": 6,
+    "src/utils/helpers.ts": 1,
+    "src/components/Layout.tsx": 3,
+    "src/components/CaseCard.tsx": 2,
+    "src/components/Sidebar.tsx": 1,
+    "src/pages/HomePage.tsx": 5,
+    "src/pages/SearchPage.tsx": 1,
+    "src/pages/CasePage.tsx": 10,
+    "src/pages/TopicPage.tsx": 1,
+    "src/utils/categories.ts": 1,
+    "scripts/scrape-lawphil.mjs": 6,
+    "src/components/DecisionText.tsx": 1,
+    ".github/workflows/deploy.yml": 1,
+    ".gitignore": 1
+  },
+  "anatomy_hits": 13,
+  "anatomy_misses": 7,
+  "repeated_reads_warned": 31,
+  "cerebrum_warnings": 0,
+  "stop_count": 15
+}

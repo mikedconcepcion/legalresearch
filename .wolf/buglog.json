@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "bugs": [
+    {
+      "id": "bug-001",
+      "timestamp": "2026-05-04T22:52:36.485Z",
+      "error_message": "Missing error handling in CasePage",
+      "file": "src/pages/CasePage.tsx",
+      "root_cause": "Code path had no error handling — exceptions would propagate uncaught",
+      "fix": "Added try/catch block",
+      "tags": [
+        "auto-detected",
+        "error-handling",
+        "tsx"
+      ],
+      "related_bugs": [],
+      "occurrences": 1,
+      "last_seen": "2026-05-04T22:52:36.485Z"
+    },
+    {
+      "id": "bug-002",
+      "timestamp": "2026-05-04T22:53:10.010Z",
+      "error_message": "CSS fix: hover",
+      "file": "src/pages/CasePage.tsx",
+      "root_cause": "hover: text-amber-800 font-medium transition-colors\" → text-amber-700 transition-colors inline-flex items-center gap-1\"",
+      "fix": "Changed hover: text-amber-800 font-medium transition-colors\" → text-amber-700 transition-colors inline-flex items-center gap-1\"",
+      "tags": [
+        "auto-detected",
+        "style-fix",
+        "tsx"
+      ],
+      "related_bugs": [],
+      "occurrences": 1,
+      "last_seen": "2026-05-04T22:53:10.010Z"
+    },
+    {
+      "id": "bug-003",
+      "timestamp": "2026-05-04T22:57:06.902Z",
+      "error_message": "Significant refactor of ",
+      "file": "scripts/scrape-lawphil.mjs",
+      "root_cause": "27 lines replaced/restructured",
+      "fix": "Rewrote 58→90 lines (27 removed)",
+      "tags": [
+        "auto-detected",
+        "refactor",
+        "mjs"
+      ],
+      "related_bugs": [],
+      "occurrences": 1,
+      "last_seen": "2026-05-04T22:57:06.902Z"
+    },
+    {
+      "id": "bug-004",
+      "timestamp": "2026-05-04T22:58:48.344Z",
+      "error_message": "Incorrect value in code",
+      "file": "src/pages/CasePage.tsx",
+      "root_cause": "Had '../data/cases.json'",
+      "fix": "Changed to '../components/DecisionText'",
+      "tags": [
+        "auto-detected",
+        "wrong-value",
+        "tsx"
+      ],
+      "related_bugs": [],
+      "occurrences": 2,
+      "last_seen": "2026-05-04T22:59:16.241Z"
+    },
+    {
+      "id": "bug-005",
+      "timestamp": "2026-05-04T22:59:29.109Z",
+      "error_message": "Significant refactor of ",
+      "file": "src/pages/CasePage.tsx",
+      "root_cause": "3 lines replaced/restructured",
+      "fix": "Rewrote 5→3 lines (3 removed)",
+      "tags": [
+        "auto-detected",
+        "refactor",
+        "tsx"
+      ],
+      "related_bugs": [],
+      "occurrences": 1,
+      "last_seen": "2026-05-04T22:59:29.109Z"
+    },
+    {
+      "id": "bug-006",
+      "timestamp": "2026-05-04T23:03:08.710Z",
+      "error_message": "Significant refactor of ",
+      "file": "src/pages/HomePage.tsx",
+      "root_cause": "2 lines replaced/restructured",
+      "fix": "Rewrote 6→10 lines (2 removed)",
+      "tags": [
+        "auto-detected",
+        "refactor",
+        "tsx"
+      ],
+      "related_bugs": [],
+      "occurrences": 1,
+      "last_seen": "2026-05-04T23:03:08.710Z"
+    },
+    {
+      "id": "bug-007",
+      "timestamp": "2026-05-04T23:03:45.716Z",
+      "error_message": "Null/undefined access in ",
+      "file": "src/components/SearchBar.tsx",
+      "root_cause": "Property access on potentially null/undefined value",
+      "fix": "Added null safety (optional chaining or null check)",
+      "tags": [
+        "auto-detected",
+        "null-safety",
+        "tsx"
+      ],
+      "related_bugs": [],
+      "occurrences": 1,
+      "last_seen": "2026-05-04T23:03:45.716Z"
+    },
+    {
+      "id": "bug-008",
+      "timestamp": "2026-05-04T23:04:21.784Z",
+      "error_message": "Wrong reference: handleQueryChange should be setQuery",
+      "file": "src/pages/HomePage.tsx",
+      "root_cause": "Used \"handleQueryChange\" instead of \"setQuery\"",
+      "fix": "Changed handleQueryChange → setQuery",
+      "tags": [
+        "auto-detected",
+        "wrong-reference",
+        "tsx"
+      ],
+      "related_bugs": [],
+      "occurrences": 1,
+      "last_seen": "2026-05-04T23:04:21.784Z"
+    },
+    {
+      "id": "bug-009",
+      "timestamp": "2026-05-04T23:08:16.337Z",
+      "error_message": "Significant refactor of ",
+      "file": "src/components/Layout.tsx",
+      "root_cause": "2 lines replaced/restructured",
+      "fix": "Rewrote 7→10 lines (2 removed)",
+      "tags": [
+        "auto-detected",
+        "refactor",
+        "tsx"
+      ],
+      "related_bugs": [],
+      "occurrences": 1,
+      "last_seen": "2026-05-04T23:08:16.337Z"
+    },
+    {
+      "id": "bug-010",
+      "timestamp": "2026-05-04T23:21:09.404Z",
+      "error_message": "Incorrect value in code",
+      "file": "scripts/scrape-lawphil.mjs",
+      "root_cause": "Had 'juri2006/nov2006/gr_157294-95_2006.html'",
+      "fix": "Changed to 'juri2006/nov2006/gr_157294_2006.html'",
+      "tags": [
+        "auto-detected",
+        "wrong-value",
+        "mjs"
+      ],
+      "related_bugs": [],
+      "occurrences": 3,
+      "last_seen": "2026-05-04T23:21:21.589Z"
+    },
+    {
+      "id": "bug-011",
+      "timestamp": "2026-05-04T23:39:50.019Z",
+      "error_message": "Incorrect value in code",
+      "file": "vite.config.ts",
+      "root_cause": "Had '/Legal_Research/'",
+      "fix": "Changed to '/legalresearch/'",
+      "tags": [
+        "auto-detected",
+        "wrong-value",
+        "ts"
+      ],
+      "related_bugs": [],
+      "occurrences": 1,
+      "last_seen": "2026-05-04T23:39:50.019Z"
+    }
+  ]
+}

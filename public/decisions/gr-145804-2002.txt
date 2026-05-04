@@ -1,0 +1,1363 @@
+G.R. No. 180643
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+Republic of the Philippines
+SUPREME COURT
+Manila
+
+
+
+
+EN BANC
+
+
+
+
+G.R. No. 180643 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp March 25, 2008
+
+
+
+
+ROMULO L. NERI, petitioner,
+
+vs.
+
+SENATE COMMITTEE ON ACCOUNTABILITY OF PUBLIC OFFICERS AND INVESTIGATIONS, SENATE COMMITTEE ON TRADE AND COMMERCE, AND SENATE COMMITTEE ON NATIONAL DEFENSE AND SECURITY, respondents.
+
+
+
+
+D E C I S I O N
+
+
+
+
+LEONARDO-DE CASTRO, J.:
+
+
+
+
+At bar is a petition for certiorari under Rule 65 of the Rules of Court assailing the show cause Letter1 dated November 22, 2007 and contempt Order2 dated January 30, 2008 concurrently issued by respondent
+
+
+
+
+Senate Committees on Accountability of Public Officers and Investigations,3 Trade and Commerce,4 and National Defense and Security5 against petitioner Romulo L. Neri, former Director General of the National Economic and Development Authority (NEDA).
+
+
+
+
+The facts, as culled from the pleadings, are as follows:
+
+
+
+
+On April 21, 2007, the Department of Transportation and Communication (DOTC) entered into a contract with Zhong Xing Telecommunications Equipment (ZTE) for the supply of equipment and services for the National Broadband Network (NBN) Project in the amount of U.S. $ 329,481,290 (approximately P16 Billion Pesos). The Project was to be financed by the People's Republic of China.
+
+
+
+
+In connection with this NBN Project, various Resolutions were introduced in the Senate, as follows:
+
+
+
+
+
+(1) P.S. Res. No. 127, introduced by Senator Aquilino Q. Pimentel, Jr., entitled RESOLUTION DIRECTING THE BLUE RIBBON COMMITTEE AND THE COMMITTEE ON TRADE AND INDUSTRY TO INVESTIGATE, IN AID OF LEGISLATION, THE CIRCUMSTANCES LEADING TO THE APPROVAL OF THE BROADBAND CONTRACT WITH ZTE AND THE ROLE PLAYED BY THE OFFICIALS CONCERNED IN GETTING IT CONSUMMATED AND TO MAKE RECOMMENDATIONS TO HALE TO THE COURTS OF LAW THE PERSONS RESPONSIBLE FOR ANY ANOMALY IN CONNECTION THEREWITH AND TO PLUG THE LOOPHOLES, IF ANY IN THE BOT LAW AND OTHER PERTINENT LEGISLATIONS.
+
+
+
+
+(2) P.S. Res. No. 144, introduced by Senator Mar Roxas, entitled RESOLUTION URGING PRESIDENT GLORIA MACAPAGAL ARROYO TO DIRECT THE CANCELLATION OF THE ZTE CONTRACT
+
+
+
+
+(3) P.S. Res. No. 129, introduced by Senator Panfilo M. Lacson, entitled RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE AND SECURITY TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE NATIONAL SECURITY IMPLICATIONS OF AWARDING THE NATIONAL BROADBAND NETWORK CONTRACT TO THE CHINESE FIRM ZHONG XING TELECOMMUNICATIONS EQUIPMENT COMPANY LIMITED (ZTE CORPORATION) WITH THE END IN VIEW OF PROVIDING REMEDIAL LEGISLATION THAT WILL PROTECT OUR NATIONAL SOVEREIGNTY, SECURITY AND TERRITORIAL INTEGRITY.
+
+
+
+
+(4) P.S. Res. No. 136, introduced by Senator Miriam Defensor Santiago, entitled RESOLUTION DIRECTING THE PROPER SENATE COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE LEGAL AND ECONOMIC JUSTIFICATION OF THE NATIONAL BROADBAND NETWORK (NBN) PROJECT OF THE NATIONAL GOVERNMENT.
+
+
+
+
+
+At the same time, the investigation was claimed to be relevant to the consideration of three (3) pending bills in the Senate, to wit:
+
+
+
+
+
+1. Senate Bill No. 1793, introduced by Senator Mar Roxas, entitled AN ACT SUBJECTING TREATIES, INTERNATIONAL OR EXECUTIVE AGREEMENTS INVOLVING FUNDING IN THE PROCUREMENT OF INFRASTRUCTURE PROJECTS, GOODS, AND CONSULTING SERVICES TO BE INCLUDED IN THE SCOPE AND APPLICATION OF PHILIPPINE PROCUREMENT LAWS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9184, OTHERWISE KNOWN AS THE GOVERNMENT PROCUREMENT REFORM ACT, AND FOR OTHER PURPOSES;
+
+
+
+
+2. Senate Bill No. 1794, introduced by Senator Mar Roxas, entitled AN ACT IMPOSING SAFEGUARDS IN CONTRACTING LOANS CLASSIFIED AS OFFICIAL DEVELOPMENT ASSISTANCE, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8182, AS AMENDED BY REPUBLIC ACT NO. 8555, OTHERWISE KNOWN AS THE OFFICIAL DEVELOPMENT ASSISTANCE ACT OF 1996, AND FOR OTHER PURPOSES; and
+
+
+
+
+3. Senate Bill No. 1317, introduced by Senator Miriam Defensor Santiago, entitled AN ACT MANDATING CONCURRENCE TO INTERNATIONAL AGREEMENTS AND EXECUTIVE AGREEMENTS.
+
+
+
+
+
+Respondent Committees initiated the investigation by sending invitations to certain personalities and cabinet officials involved in the NBN Project. Petitioner was among those invited. He was summoned to appear and testify on September 18, 20, and 26 and October 25, 2007. However, he attended only the September 26 hearing, claiming he was "out of town" during the other dates.
+
+
+
+
+In the September 18, 2007 hearing, businessman Jose de Venecia III testified that several high executive officials and power brokers were using their influence to push the approval of the NBN Project by the NEDA. It appeared that the Project was initially approved as a Build-Operate-Transfer (BOT) project but, on March 29, 2007, the NEDA acquiesced to convert it into a government-to-government project, to be financed through a loan from the Chinese Government.
+
+
+
+
+On September 26, 2007, petitioner testified before respondent Committees for eleven (11) hours. He disclosed that then Commission on Elections (COMELEC) Chairman Benjamin Abalos offered him P200 Million in exchange for his approval of the NBN Project. He further narrated that he informed President Arroyo about the bribery attempt and that she instructed him not to accept the bribe. However, when probed further on what they discussed about the NBN Project, petitioner refused to answer, invoking "executive privilege". In particular, he refused to answer the questions on (a) whether or not President Arroyo followed up the NBN Project,6 (b) whether or not she directed him to prioritize it,7 and (c) whether or not she directed him to approve.8
+
+
+
+
+Unrelenting, respondent Committees issued a Subpoena Ad Testificandum to petitioner, requiring him to appear and testify on November 20, 2007.
+
+
+
+
+However, in the Letter dated November 15, 2007, Executive Secretary Eduardo R. Ermita requested respondent Committees to dispense with petitioner's testimony on the ground of executive privilege. The pertinent portion of the letter reads:
+
+
+
+
+
+With reference to the subpoena ad testificandum issued to Secretary Romulo Neri to appear and testify again on 20 November 2007 before the Joint Committees you chair, it will be recalled that Sec. Neri had already testified and exhaustively discussed the ZTE / NBN project, including his conversation with the President thereon last 26 September 2007.
+
+
+
+
+Asked to elaborate further on his conversation with the President, Sec. Neri asked for time to consult with his superiors in line with the ruling of the Supreme Court in Senate v. Ermita, 488 SCRA 1 (2006).
+
+
+
+
+Specifically, Sec. Neri sought guidance on the possible invocation of executive privilege on the following questions, to wit:
+
+
+
+
+
+a) Whether the President followed up the (NBN) project?
+
+
+
+
+b) Were you dictated to prioritize the ZTE?
+
+
+
+
+c) Whether the President said to go ahead and approve the project after being told about the alleged bribe?
+
+
+
+
+
+Following the ruling in Senate v. Ermita, the foregoing questions fall under conversations and correspondence between the President and public officials which are considered executive privilege (Almonte v. Vasquez, G.R. 95637, 23 May 1995; Chavez v. PEA, G.R. 133250, July 9, 2002). Maintaining the confidentiality of conversations of the President is necessary in the exercise of her executive and policy decision making process. The expectation of a President to the confidentiality of her conversations and correspondences, like the value which we accord deference for the privacy of all citizens, is the necessity for protection of the public interest in candid, objective, and even blunt or harsh opinions in Presidential decision-making. Disclosure of conversations of the President will have a chilling effect on the President, and will hamper her in the effective discharge of her duties and responsibilities, if she is not protected by the confidentiality of her conversations.
+
+
+
+
+The context in which executive privilege is being invoked is that the information sought to be disclosed might impair our diplomatic as well as economic relations with the People's Republic of China. Given the confidential nature in which these information were conveyed to the President, he cannot provide the Committee any further details of these conversations, without disclosing the very thing the privilege is designed to protect.
+
+
+
+
+In light of the above considerations, this Office is constrained to invoke the settled doctrine of executive privilege as refined in Senate v. Ermita, and has advised Secretary Neri accordingly.
+
+
+
+
+Considering that Sec. Neri has been lengthily interrogated on the subject in an unprecedented 11-hour hearing, wherein he has answered all questions propounded to him except the foregoing questions involving executive privilege, we therefore request that his testimony on 20 November 2007 on the ZTE / NBN project be dispensed with.
+
+
+
+
+
+On November 20, 2007, petitioner did not appear before respondent Committees. Thus, on November 22, 2007, the latter issued the show cause Letter requiring him to explain why he should not be cited in contempt. The Letter reads:
+
+
+
+
+
+Since you have failed to appear in the said hearing, the Committees on Accountability of Public Officers and Investigations (Blue Ribbon), Trade and Commerce and National Defense and Security require you to show cause why you should not be cited in contempt under Section 6, Article 6 of the Rules of the Committee on Accountability of Public Officers and Investigations (Blue Ribbon).
+
+
+
+
+The Senate expects your explanation on or before 2 December 2007.
+
+
+
+
+
+On November 29, 2007, petitioner replied to respondent Committees, manifesting that it was not his intention to ignore the Senate hearing and that he thought the only remaining questions were those he claimed to be covered by executive privilege, thus:
+
+
+
+
+
+It was not my intention to snub the last Senate hearing. In fact, I have cooperated with the task of the Senate in its inquiry in aid of legislation as shown by my almost 11 hours stay during the hearing on 26 September 2007. During said hearing, I answered all the questions that were asked of me, save for those which I thought was covered by executive privilege, and which was confirmed by the Executive Secretary in his Letter 15 November 2007. In good faith, after that exhaustive testimony, I thought that what remained were only the three questions, where the Executive Secretary claimed executive privilege. Hence, his request that my presence be dispensed with.
+
+
+
+
+Be that as it may, should there be new matters that were not yet taken up during the 26 September 2007 hearing, may I be furnished in advance as to what else I need to clarify, so that as a resource person, I may adequately prepare myself.
+
+
+
+
+
+In addition, petitioner submitted a letter prepared by his counsel, Atty. Antonio R. Bautista, stating, among others that: (1) his (petitioner) non-appearance was upon the order of the President; and (2) his conversation with President Arroyo dealt with delicate and sensitive national security and diplomatic matters relating to the impact of the bribery scandal involving high government officials and the possible loss of confidence of foreign investors and lenders in the Philippines. The letter ended with a reiteration of petitioner's request that he "be furnished in advance" as to what else he needs to clarify so that he may adequately prepare for the hearing.
+
+
+
+
+In the interim, on December 7, 2007, petitioner filed with this Court the present petition for certiorari assailing the show cause Letter dated November 22, 2007.
+
+
+
+
+Respondent Committees found petitioner's explanations unsatisfactory. Without responding to his request for advance notice of the matters that he should still clarify, they issued the Order dated January 30, 2008, citing him in contempt of respondent Committees and ordering his arrest and detention at the Office of the Senate Sergeant-At-Arms until such time that he would appear and give his testimony. The said Order states:
+
+
+
+
+
+ORDER
+
+
+
+
+For failure to appear and testify in the Committee's hearing on Tuesday, September 18, 2007; Thursday, September 20, 2007; Thursday, October 25, 2007; and Tuesday, November 20, 2007, despite personal notice and Subpoenas Ad Testificandum sent to and received by him, which thereby delays, impedes and obstructs, as it has in fact delayed, impeded and obstructed the inquiry into the subject reported irregularities, AND for failure to explain satisfactorily why he should not be cited for contempt (Neri letter of 29 November 2007), herein attached) ROMULO L. NERI is hereby cited in contempt of this (sic) Committees and ordered arrested and detained in the Office of the Senate Sergeant-At-Arms until such time that he will appear and give his testimony.
+
+
+
+
+The Sergeant-At-Arms is hereby directed to carry out and implement this Order and make a return hereof within twenty four (24) hours from its enforcement.
+
+
+
+
+SO ORDERED.
+
+
+
+
+
+On the same date, petitioner moved for the reconsideration of the above Order.9 He insisted that he has not shown "any contemptible conduct worthy of contempt and arrest." He emphasized his willingness to testify on new matters, however, respondent Committees did not respond to his request for advance notice of questions. He also mentioned the petition for certiorari he filed on December 7, 2007. According to him, this should restrain respondent Committees from enforcing the show cause Letter "through the issuance of declaration of contempt" and arrest.
+
+
+
+
+In view of respondent Committees' issuance of the contempt Order, petitioner filed on February 1, 2008 a Supplemental Petition for Certiorari (With Urgent Application for TRO/Preliminary Injunction), seeking to restrain the implementation of the said contempt Order.
+
+
+
+
+On February 5, 2008, the Court issued a Status Quo Ante Order (a) enjoining respondent Committees from implementing their contempt Order, (b) requiring the parties to observe the status quo prevailing prior to the issuance of the assailed order, and (c) requiring respondent Committees to file their comment.
+
+
+
+
+Petitioner contends that respondent Committees' show cause Letter and contempt Order were issued with grave abuse of discretion amounting to lack or excess of jurisdiction. He stresses that his conversations with President Arroyo are "candid discussions meant to explore options in making policy decisions." According to him, these discussions "dwelt on the impact of the bribery scandal involving high government officials on the country's diplomatic relations and economic and military affairs and the possible loss of confidence of foreign investors and lenders in the Philippines." He also emphasizes that his claim of executive privilege is upon the order of the President and within the parameters laid down in Senate v. Ermita10 and United States v. Reynolds.11 Lastly, he argues that he is precluded from disclosing communications made
+
+
+
+
+to him in official confidence under Section 712 of Republic Act No. 6713, otherwise known as Code of Conduct and Ethical Standards for Public Officials and Employees, and Section 2413 (e) of Rule 130 of the Rules of Court.
+
+
+
+
+Respondent Committees assert the contrary. They argue that (1) petitioner's testimony is material and pertinent in the investigation conducted in aid of legislation; (2) there is no valid justification for petitioner to claim executive privilege; (3) there is no abuse of their authority to order petitioner's arrest; and (4) petitioner has not come to court with clean hands.
+
+
+
+
+In the oral argument held last March 4, 2008, the following issues were ventilated:
+
+
+
+
+
+1. What communications between the President and petitioner Neri are covered by the principle of 'executive privilege'?
+
+
+
+
+
+1.a Did Executive Secretary Ermita correctly invoke the principle of executive privilege, by order of the President, to cover (i) conversations of the President in the exercise of her executive and policy decision-making and (ii) information, which might impair our diplomatic as well as economic relations with the People's Republic of China?
+
+
+
+
+1.b. Did petitioner Neri correctly invoke executive privilege to avoid testifying on his conversations with the President on the NBN contract on his assertions that the said conversations "dealt with delicate and sensitive national security and diplomatic matters relating to the impact of bribery scandal involving high government officials and the possible loss of confidence of foreign investors and lenders in the Philippines" x x x within the principles laid down in Senate v. Ermita (488 SCRA 1 [2006])?
+
+
+
+
+1.c Will the claim of executive privilege in this case violate the following provisions of the Constitution:
+
+
+
+
+
+Sec. 28, Art. II (Full public disclosure of all transactions involving public interest)
+
+
+
+
+Sec. 7, Art. III (The right of the people to information on matters of public concern)
+
+
+
+
+Sec. 1, Art. XI (Public office is a public trust)
+
+
+
+
+Sec. 17, Art. VII (The President shall ensure that the laws be faithfully executed)
+
+
+
+
+
+
+and the due process clause and the principle of separation of powers?
+
+
+
+
+2. What is the proper procedure to be followed in invoking executive privilege?
+
+
+
+
+3. Did the Senate Committees gravely abuse their discretion in ordering the arrest of petitioner for non-compliance with the subpoena?
+
+
+
+
+
+After the oral argument, the parties were directed to manifest to the Court within twenty-four (24) hours if they are amenable to the Court's proposal of allowing petitioner to immediately resume his testimony before the Senate Committees to answer the other questions of the Senators without prejudice to the decision on the merits of this pending petition. It was understood that petitioner may invoke executive privilege in the course of the Senate Committees proceedings, and if the respondent Committees disagree thereto, the unanswered questions will be the subject of a supplemental pleading to be resolved along with the three (3) questions subject of the present petition.14 At the same time, respondent Committees were directed to submit several pertinent documents.15
+
+
+
+
+The Senate did not agree with the proposal for the reasons stated in the Manifestation dated March 5, 2008. As to the required documents, the Senate and respondent Committees manifested that they would not be able to submit the latter's "Minutes of all meetings" and the "Minute Book" because it has never been the "historical and traditional legislative practice to keep them."16 They instead submitted the Transcript of Stenographic Notes of respondent Committees' joint public hearings.
+
+
+
+
+On March 17, 2008, the Office of the Solicitor General (OSG) filed a Motion for Leave to Intervene and to Admit Attached Memorandum, founded on the following arguments:
+
+
+
+
+
+(1) The communications between petitioner and the President are covered by the principle of "executive privilege."
+
+
+
+
+(2) Petitioner was not summoned by respondent Senate Committees in accordance with the law-making body's power to conduct inquiries in aid of legislation as laid down in Section 21, Article VI of the Constitution and Senate v. Ermita.
+
+
+
+
+(3) Respondent Senate Committees gravely abused its discretion for alleged non-compliance with the Subpoena dated November 13, 2007.
+
+
+
+
+
+The Court granted the OSG's motion the next day, March 18, 2008.
+
+
+
+
+As the foregoing facts unfold, related events transpired.
+
+
+
+
+On March 6, 2008, President Arroyo issued Memorandum Circular No. 151, revoking Executive Order No. 464 and Memorandum Circular No. 108. She advised executive officials and employees to follow and abide by the Constitution, existing laws and jurisprudence, including, among others, the case of Senate v. Ermita17 when they are invited to legislative inquiries in aid of legislation.
+
+
+
+
+At the core of this controversy are the two (2) crucial queries, to wit:
+
+
+
+
+
+First, are the communications elicited by the subject three (3) questions covered by executive privilege?
+
+
+
+
+And second, did respondent Committees commit grave abuse of discretion in issuing the contempt Order?
+
+
+
+
+
+We grant the petition.
+
+
+
+
+At the outset, a glimpse at the landmark case of Senate v. Ermita18 becomes imperative. Senate draws in bold strokes the distinction between the legislative and oversight powers of the Congress, as embodied under Sections 21 and 22, respectively, of Article VI of the Constitution, to wit:
+
+
+
+
+
+SECTION 21. The Senate or the House of Representatives or any of its respective committees may conduct inquiries in aid of legislation in accordance with its duly published rules of procedure. The rights of persons appearing in or affected by such inquiries shall be respected.
+
+
+
+
+SECTION 22. The heads of department may upon their own initiative, with the consent of the President, or upon the request of either House, or as the rules of each House shall provide, appear before and be heard by such House on any matter pertaining to their departments. Written questions shall be submitted to the President of the Senate or the Speaker of the House of Representatives at least three days before their scheduled appearance. Interpellations shall not be limited to written questions, but may cover matters related thereto. When the security of the state or the public interest so requires and the President so states in writing, the appearance shall be conducted in executive session.
+
+
+
+
+
+Senate cautions that while the above provisions are closely related and complementary to each other, they should not be considered as pertaining to the same power of Congress. Section 21 relates to the power to conduct inquiries in aid of legislation. Its aim is to elicit information that may be used for legislation. On the other hand, Section 22 pertains to the power to conduct a question hour, the objective of which is to obtain information in pursuit of Congress' oversight function.19 Simply stated, while both powers allow Congress or any of its committees to conduct inquiry, their objectives are different.
+
+
+
+
+This distinction gives birth to another distinction with regard to the use of compulsory process. Unlike in Section 21, Congress cannot compel the appearance of executive officials under Section 22. The Court's pronouncement in Senate v. Ermita20 is clear:
+
+
+
+
+
+When Congress merely seeks to be informed on how department heads are implementing the statutes which it has issued, its right to such information is not as imperative as that of the President to whom, as Chief Executive, such department heads must give a report of their performance as a matter of duty. In such instances, Section 22, in keeping with the separation of powers, states that Congress may only request their appearance. Nonetheless, when the inquiry in which Congress requires their appearance is 'in aid of legislation' under Section 21, the appearance is mandatory for the same reasons stated in Arnault.
+
+
+
+
+In fine, the oversight function of Congress may be facilitated by compulsory process only to the extent that it is performed in pursuit of legislation. This is consistent with the intent discerned from the deliberations of the Constitutional Commission
+
+
+
+
+Ultimately, the power of Congress to compel the appearance of executive officials under section 21 and the lack of it under Section 22 find their basis in the principle of separation of powers. While the executive branch is a co-equal branch of the legislature, it cannot frustrate the power of Congress to legislate by refusing to comply with its demands for information. (Emphasis supplied.)
+
+
+
+
+
+The availability of the power of judicial review to resolve the issues raised in this case has also been settled in Senate v. Ermita, when it held:
+
+
+
+
+
+As evidenced by the American experience during the so-called "McCarthy era," however, the right of Congress to conduct inquiries in aid of legislation is, in theory, no less susceptible to abuse than executive or judicial power. It may thus be subjected to judicial review pursuant to the Court's certiorari powers under Section 1, Article VIII of the Constitution.
+
+
+
+
+
+Hence, this decision.
+
+
+
+
+I
+
+
+
+
+The Communications Elicited by the Three (3) Questions are Covered by Executive Privilege
+
+
+
+
+We start with the basic premises where the parties have conceded.
+
+
+
+
+The power of Congress to conduct inquiries in aid of legislation is broad. This is based on the proposition that a legislative body cannot legislate wisely or effectively in the absence of information respecting the conditions which the legislation is intended to affect or change.21 Inevitably, adjunct thereto is the compulsory process to enforce it. But, the power, broad as it is, has limitations. To be valid, it is imperative that it is done in accordance with the Senate or House duly published rules of procedure and that the rights of the persons appearing in or affected by such inquiries be respected.
+
+
+
+
+The power extends even to executive officials and the only way for them to be exempted is through a valid claim of executive privilege.22 This directs us to the consideration of the question -- is there a recognized claim of executive privilege despite the revocation of E.O. 464?
+
+
+
+
+A- There is a Recognized Claim
+
+of Executive Privilege Despite the
+
+Revocation of E.O. 464
+
+
+
+
+At this juncture, it must be stressed that the revocation of E.O. 464 does not in any way diminish our concept of executive privilege. This is because this concept has Constitutional underpinnings. Unlike the United States which has further accorded the concept with statutory status by enacting the Freedom of Information Act23 and the Federal Advisory Committee Act,24 the Philippines has retained its constitutional origination, occasionally interpreted only by this Court in various cases. The most recent of these is the case of Senate v. Ermita where this Court declared unconstitutional substantial portions of E.O. 464. In this regard, it is worthy to note that Executive Ermita's Letter dated November 15, 2007 limits its bases for the claim of executive privilege to Senate v. Ermita, Almonte v. Vasquez,25 and Chavez v. PEA.26 There was never a mention of E.O. 464.
+
+
+
+
+While these cases, especially Senate v. Ermita,27 have comprehensively discussed the concept of executive privilege, we deem it imperative to explore it once more in view of the clamor for this Court to clearly define the communications covered by executive privilege.
+
+
+
+
+The Nixon and post-Watergate cases established the broad contours of the presidential communications privilege.28 In United States v. Nixon,29 the U.S. Court recognized a great public interest in preserving "the confidentiality of conversations that take place in the President's performance of his official duties." It thus considered presidential communications as "presumptively privileged." Apparently, the presumption is founded on the "President's generalized interest in confidentiality." The privilege is said to be necessary to guarantee the candor of presidential advisors and to provide "the President and those who assist him� with freedom to explore alternatives in the process of shaping policies and making decisions and to do so in a way many would be unwilling to express except privately."
+
+
+
+
+In In Re: Sealed Case,30 the U.S. Court of Appeals delved deeper. It ruled that there are two (2) kinds of executive privilege; one is the presidential communications privilege and, the other is the deliberative process privilege. The former pertains to "communications, documents or other materials that reflect presidential decision-making and deliberations and that the President believes should remain confidential." The latter includes 'advisory opinions, recommendations and deliberations comprising part of a process by which governmental decisions and policies are formulated."
+
+
+
+
+Accordingly, they are characterized by marked distinctions. Presidential communications privilege applies to decision-making of the President while, the deliberative process privilege, to decision-making of executive officials. The first is rooted in the constitutional principle of separation of power and the President's unique constitutional role; the second on common law privilege. Unlike the deliberative process privilege, the presidential communications privilege applies to documents in their entirety, and covers final and post-decisional materials as well as pre-deliberative ones31 As a consequence, congressional or judicial negation of the presidential communications privilege is always subject to greater scrutiny than denial of the deliberative process privilege.
+
+
+
+
+Turning on who are the officials covered by the presidential communications privilege, In Re: Sealed Case confines the privilege only to White House Staff that has "operational proximity" to direct presidential decision-making. Thus, the privilege is meant to encompass only those functions that form the core of presidential authority, involving what the court characterized as "quintessential and non-delegable Presidential power," such as commander-in-chief power, appointment and removal power, the power to grant pardons and reprieves, the sole-authority to receive ambassadors and other public officers, the power to negotiate treaties, etc.32
+
+
+
+
+The situation in Judicial Watch, Inc. v. Department of Justice33 tested the In Re: Sealed Case principles. There, while the presidential decision involved is the exercise of the President's pardon power, a non-delegable, core-presidential function, the Deputy Attorney General and the Pardon Attorney were deemed to be too remote from the President and his senior White House advisors to be protected. The Court conceded that
+
+
+
+
+functionally those officials were performing a task directly related to the President's pardon power, but concluded that an organizational test was more appropriate for confining the potentially broad sweep that would result from the In Re: Sealed Case's functional test. The majority concluded that, the lesser protections of the deliberative process privilege would suffice. That privilege was, however, found insufficient to justify the confidentiality of the 4,341 withheld documents.
+
+
+
+
+But more specific classifications of communications covered by executive privilege are made in older cases. Courts ruled early that the Executive has a right to withhold documents that might reveal military or state secrets,34 identity of government informers in some circumstances,,35 and information related to pending investigations.36 An area where the privilege is highly revered is in foreign relations. In United States v. Curtiss-Wright Export Corp.37 the U.S. Court, citing President George Washington, pronounced:
+
+
+
+
+
+The nature of foreign negotiations requires caution, and their success must often depend on secrecy, and even when brought to a conclusion, a full disclosure of all the measures, demands, or eventual concessions which may have been proposed or contemplated would be extremely impolitic, for this might have a pernicious influence on future negotiations or produce immediate inconveniences, perhaps danger and mischief, in relation to other powers. The necessity of such caution and secrecy was one cogent reason for vesting the power of making treaties in the President, with the advice and consent of the Senate, the principle on which the body was formed confining it to a small number of members. To admit, then, a right in the House of Representatives to demand and to have as a matter of course all the papers respecting a negotiation with a foreign power would be to establish a dangerous precedent.
+
+
+
+
+
+Majority of the above jurisprudence have found their way in our jurisdiction. In Chavez v. PCGG38, this Court held that there is a "governmental privilege against public disclosure with respect to state secrets regarding military, diplomatic and other security matters." In Chavez v. PEA,39 there is also a recognition of the confidentiality of Presidential conversations, correspondences, and discussions in closed-door Cabinet meetings. In Senate v. Ermita, the concept of presidential communications privilege is fully discussed.
+
+
+
+
+As may be gleaned from the above discussion, the claim of executive privilege is highly recognized in cases where the subject of inquiry relates to a power textually committed by the Constitution to the President, such as the area of military and foreign relations. Under our Constitution, the President is the repository of the commander-in-chief,40 appointing,41 pardoning,42 and diplomatic43 powers. Consistent with the doctrine of separation of powers, the information relating to these powers may enjoy greater confidentiality than others.
+
+
+
+
+The above cases, especially, Nixon, In Re Sealed Case and Judicial Watch, somehow provide the elements of presidential communications privilege, to wit:
+
+
+
+
+
+1) The protected communication must relate to a "quintessential and non-delegable presidential power."
+
+
+
+
+2) The communication must be authored or "solicited and received" by a close advisor of the President or the President himself. The judicial test is that an advisor must be in "operational proximity" with the President.
+
+
+
+
+3) The presidential communications privilege remains a qualified privilege that may be overcome by a showing of adequate need, such that the information sought "likely contains important evidence" and by the unavailability of the information elsewhere by an appropriate investigating authority.44
+
+
+
+
+
+In the case at bar, Executive Secretary Ermita premised his claim of executive privilege on the ground that the communications elicited by the three (3) questions "fall under conversation and correspondence between the President and public officials" necessary in "her executive and policy decision-making process" and, that "the information sought to be disclosed might impair our diplomatic as well as economic relations with the People's Republic of China." Simply put, the bases are presidential communications privilege and executive privilege on matters relating to diplomacy or foreign relations.
+
+
+
+
+Using the above elements, we are convinced that, indeed, the communications elicited by the three (3) questions are covered by the presidential communications privilege. First, the communications relate to a "quintessential and non-delegable power" of the President, i.e. the power to enter into an executive agreement with other countries. This authority of the President to enter into executive agreements without the concurrence of the Legislature has traditionally been recognized in Philippine jurisprudence.45 Second, the communications are "received" by a close advisor of the President. Under the "operational proximity" test, petitioner can be considered a close advisor, being a member of President Arroyo's cabinet. And third, there is no adequate showing of a compelling need that would justify the limitation of the privilege and of the unavailability of the information elsewhere by an appropriate investigating authority.
+
+
+
+
+The third element deserves a lengthy discussion.
+
+
+
+
+United States v. Nixon held that a claim of executive privilege is subject to balancing against other interest. In other words, confidentiality in executive privilege is not absolutely protected by the Constitution. The U.S. Court held:
+
+
+
+
+
+[N]either the doctrine of separation of powers, nor the need for confidentiality of high-level communications, without more, can sustain an absolute, unqualified Presidential privilege of immunity from judicial process under all circumstances.
+
+
+
+
+
+The foregoing is consistent with the earlier case of Nixon v. Sirica,46 where it was held that presidential communications are presumptively privileged and that the presumption can be overcome only by mere showing of public need by the branch seeking access to conversations. The courts are enjoined to resolve the competing interests of the political branches of the government "in the manner that preserves the essential functions of each Branch."47 Here, the record is bereft of any categorical explanation from respondent Committees to show a compelling or citical need for the answers to the three (3) questions in the enactment of a law. Instead, the questions veer more towards the exercise of the legislative oversight function under Section 22 of Article VI rather than Section 21 of the same Article. Senate v. Ermita ruled that the "the oversight function of Congress may be facilitated by compulsory process only to the extent that it is performed in pursuit of legislation." It is conceded that it is difficult to draw the line between an inquiry in aid of legislation and an inquiry in the exercise of oversight function of Congress. In this regard, much will depend on the content of the questions and the manner the inquiry is conducted.
+
+
+
+
+Respondent Committees argue that a claim of executive privilege does not guard against a possible disclosure of a crime or wrongdoing. We see no dispute on this. It is settled in United States v. Nixon48 that "demonstrated, specific need for evidence in pending criminal trial" outweighs the President's "generalized interest in confidentiality." However, the present case's distinction with the Nixon case is very evident. In Nixon, there is a pending criminal proceeding where the information is requested and it is the demands of due process of law and the fair administration of criminal justice that the information be disclosed. This is the reason why the U.S. Court was quick to "limit the scope of its decision." It stressed that it is "not concerned here with the balance between the President's generalized interest in confidentiality x x x and congressional demands for information." Unlike in Nixon, the information here is elicited, not in a criminal proceeding, but in a legislative inquiry. In this regard, Senate v. Ermita stressed that the validity of the claim of executive privilege depends not only on the ground invoked but, also, on the procedural setting or the context in which the claim is made. Furthermore, in Nixon, the President did not interpose any claim of need to protect military, diplomatic or sensitive national security secrets. In the present case, Executive Secretary Ermita categorically claims executive privilege on the grounds of presidential communications privilege in relation to her executive and policy decision-making process and diplomatic secrets.
+
+
+
+
+The respondent Committees should cautiously tread into the investigation of matters which may present a conflict of interest that may provide a ground to inhibit the Senators participating in the inquiry if later on an impeachment proceeding is initiated on the same subject matter of the present Senate inquiry. Pertinently, in Senate Select Committee on Presidential Campaign Activities v. Nixon,49 it was held that since an impeachment proceeding had been initiated by a House Committee, the Senate Select Committee's immediate oversight need for five presidential tapes should give way to the House Judiciary Committee which has the constitutional authority to inquire into presidential impeachment. The Court expounded on this issue in this wise:
+
+
+
+
+
+It is true, of course, that the Executive cannot, any more than the other branches of government, invoke a general confidentiality privilege to shield its officials and employees from investigations by the proper governmental institutions into possible criminal wrongdoing. The Congress learned this as to its own privileges in Gravel v. United States, as did the judicial branch, in a sense, in Clark v. United States, and the executive branch itself in Nixon v. Sirica. But under Nixon v. Sirica, the showing required to overcome the presumption favoring confidentiality turned, not on the nature of the presidential conduct that the subpoenaed material might reveal, but, instead, on the nature and appropriateness of the function in the performance of which the material was sought, and the degree to which the material was necessary to its fulfillment. Here also our task requires and our decision implies no judgment whatever concerning possible presidential involvement in culpable activity. On the contrary, we think the sufficiency of the Committee's showing must depend solely on whether the subpoenaed evidence is demonstrably critical to the responsible fulfillment of the Committee's functions.
+
+
+
+
+In its initial briefs here, the Committee argued that it has shown exactly this. It contended that resolution, on the basis of the subpoenaed tapes, of the conflicts in the testimony before it 'would aid in a determination whether legislative involvement in political campaigns is necessary' and 'could help engender the public support needed for basic reforms in our electoral system.' Moreover, Congress has, according to the Committee, power to oversee the operations of the executive branch, to investigate instances of possible corruption and malfeasance in office, and to expose the results of its investigations to public view. The Committee says that with respect to Watergate-related matters, this power has been delegated to it by the Senate, and that to exercise its power responsibly, it must have access to the subpoenaed tapes.
+
+
+
+
+We turn first to the latter contention. In the circumstances of this case, we need neither deny that the Congress may have, quite apart from its legislative responsibilities, a general oversight power, nor explore what the lawful reach of that power might be under the Committee's constituent resolution. Since passage of that resolution, the House Committee on the Judiciary has begun an inquiry into presidential impeachment. The investigative authority of the Judiciary Committee with respect to presidential conduct has an express constitutional source. x x x We have been shown no evidence indicating that Congress itself attaches any particular value to this interest. In these circumstances, we think the need for the tapes premised solely on an asserted power to investigate and inform cannot justify enforcement of the Committee's subpoena.
+
+
+
+
+The sufficiency of the Committee's showing of need has come to depend, therefore, entirely on whether the subpoenaed materials are critical to the performance of its legislative functions. There is a clear difference between Congress' legislative tasks and the responsibility of a grand jury, or any institution engaged in like functions. While fact-finding by a legislative committee is undeniably a part of its task, legislative judgments normally depend more on the predicted consequences of proposed legislative actions and their political acceptability, than on precise reconstruction of past events; Congress frequently legislates on the basis of conflicting information provided in its hearings. In contrast, the responsibility of the grand jury turns entirely on its ability to determine whether there is probable cause to believe that certain named individuals did or did not commit specific crimes. If, for example, as in Nixon v. Sirica, one of those crimes is perjury concerning the content of certain conversations, the grand jury's need for the most precise evidence, the exact text of oral statements recorded in their original form, is undeniable. We see no comparable need in the legislative process, at least not in the circumstances of this case. Indeed, whatever force there might once have been in the Committee's argument that the subpoenaed materials are necessary to its legislative judgments has been substantially undermined by subsequent events. (Emphasis supplied)
+
+
+
+
+
+Respondent Committees further contend that the grant of petitioner's claim of executive privilege violates the constitutional provisions on the right of the people to information on matters of public concern.50 We might have agreed with such contention if petitioner did not appear before them at all. But petitioner made himself available to them during the September 26 hearing, where he was questioned for eleven (11) hours. Not only that, he expressly manifested his willingness to answer more questions from the Senators, with the exception only of those covered by his claim of executive privilege.
+
+
+
+
+The right to public information, like any other right, is subject to limitation. Section 7 of Article III provides:
+
+
+
+
+
+The right of the people to information on matters of public concern shall be recognized. Access to official records, and to documents, and papers pertaining to official acts, transactions, or decisions, as well as to government research data used as basis for policy development, shall be afforded the citizen, subject to such limitations as may be provided by law.
+
+
+
+
+
+The provision itself expressly provides the limitation, i.e. as may be provided by law. Some of these laws are Section 7 of Republic Act (R.A.) No. 6713,51 Article 22952 of the Revised Penal Code, Section 3 (k)53 of R.A. No. 3019, and Section 24(e)54 of Rule 130 of the Rules of Court. These are in addition to what our body of jurisprudence classifies as confidential55 and what our Constitution considers as belonging to the larger concept of executive privilege. Clearly, there is a recognized public interest in the confidentiality of certain information. We find the information subject of this case belonging to such kind.
+
+
+
+
+More than anything else, though, the right of Congress or any of its Committees to obtain information in aid of legislation cannot be equated with the people's right to public information. The former cannot claim that every legislative inquiry is an exercise of the people's right to information. The distinction between such rights is laid down in Senate v. Ermita:
+
+
+
+
+
+There are, it bears noting, clear distinctions between the right of Congress to information which underlies the power of inquiry and the right of people to information on matters of public concern. For one, the demand of a citizen for the production of documents pursuant to his right to information does not have the same obligatory force as a subpoena duces tecum issued by Congress. Neither does the right to information grant a citizen the power to exact testimony from government officials. These powers belong only to Congress, not to an individual citizen.
+
+
+
+
+Thus, while Congress is composed of representatives elected by the people, it does not follow, except in a highly qualified sense, that in every exercise of its power of inquiry, the people are exercising their right to information.
+
+
+
+
+
+The members of respondent Committees should not invoke as justification in their exercise of power a right properly belonging to the people in general. This is because when they discharge their power, they do so as public officials and members of Congress. Be that as it may, the right to information must be balanced with and should give way, in appropriate cases, to constitutional precepts particularly those pertaining to delicate interplay of executive-legislative powers and privileges which is the subject of careful review by numerous decided cases.
+
+
+
+
+B- The Claim of Executive Privilege
+
+is Properly Invoked
+
+
+
+
+We now proceed to the issue -- whether the claim is properly invoked by the President. Jurisprudence teaches that for the claim to be properly invoked, there must be a formal claim of privilege, lodged by the head of the department which has control over the matter."56 A formal and proper claim of executive privilege requires a "precise and certain reason" for preserving their confidentiality.57
+
+
+
+
+The Letter dated November 17, 2007 of Executive Secretary Ermita satisfies the requirement. It serves as the formal claim of privilege. There, he expressly states that "this Office is constrained to invoke the settled doctrine of executive privilege as refined in Senate v. Ermita, and has advised Secretary Neri accordingly." Obviously, he is referring to the Office of the President. That is more than enough compliance. In Senate v. Ermita, a less categorical letter was even adjudged to be sufficient.
+
+
+
+
+With regard to the existence of "precise and certain reason," we find the grounds relied upon by Executive Secretary Ermita specific enough so as not "to leave respondent Committees in the dark on how the requested information could be classified as privileged." The case of Senate v. Ermita only requires that an allegation be made "whether the information demanded involves military or diplomatic secrets, closed-door Cabinet meetings, etc." The particular ground must only be specified. The enumeration is not even intended to be comprehensive."58 The following statement of grounds satisfies the requirement:
+
+
+
+
+
+The context in which executive privilege is being invoked is that the information sought to be disclosed might impair our diplomatic as well as economic relations with the People's Republic of China. Given the confidential nature in which these information were conveyed to the President, he cannot provide the Committee any further details of these conversations, without disclosing the very thing the privilege is designed to protect.
+
+
+
+
+
+At any rate, as held further in Senate v. Ermita, 59 the Congress must not require the executive to state the reasons for the claim with such particularity as to compel disclosure of the information which the privilege is meant to protect. This is a matter of respect to a coordinate and co-equal department.
+
+
+
+
+II
+
+
+
+
+Respondent Committees Committed Grave Abuse of Discretion
+
+in Issuing the Contempt Order
+
+
+
+
+Grave abuse of discretion means "such capricious and whimsical exercise of judgment as is equivalent to lack of jurisdiction, or, in other words where the power is exercised in an arbitrary or despotic manner by reason of passion or personal hostility and it must be so patent and gross as to amount to an evasion of positive duty or to a virtual refusal to perform the duty enjoined or to act at all in contemplation of law."60
+
+
+
+
+It must be reiterated that when respondent Committees issued the show cause Letter dated November 22, 2007, petitioner replied immediately, manifesting that it was not his intention to ignore the Senate hearing and that he thought the only remaining questions were the three (3) questions he claimed to be covered by executive privilege. In addition thereto, he submitted Atty. Bautista's letter, stating that his non-appearance was upon the order of the President and specifying the reasons why his conversations with President Arroyo are covered by executive privilege. Both correspondences include an expression of his willingness to testify again, provided he "be furnished in advance" copies of the questions. Without responding to his request for advance list of questions, respondent Committees issued the Order dated January 30, 2008, citing him in contempt of respondent Committees and ordering his arrest and detention at the Office of the Senate Sergeant-At-Arms until such time that he would appear and give his testimony. Thereupon, petitioner filed a motion for reconsideration, informing respondent Committees that he had filed the present petition for certiorari.
+
+
+
+
+Respondent Committees committed grave abuse of discretion in issuing the contempt Order in view of five (5) reasons.
+
+
+
+
+First, there being a legitimate claim of executive privilege, the issuance of the contempt Order suffers from constitutional infirmity.
+
+
+
+
+Second, respondent Committees did not comply with the requirement laid down in Senate v. Ermita that the invitations should contain the "possible needed statute which prompted the need for the inquiry," along with "the usual indication of the subject of inquiry and the questions relative to and in furtherance thereof." Compliance with this requirement is imperative, both under Sections 21 and 22 of Article VI of the Constitution. This must be so to ensure that the rights of both persons appearing in or affected by such inquiry are respected as mandated by said Section 21 and by virtue of the express language of Section 22. Unfortunately, despite petitioner's repeated demands, respondent Committees did not send him an advance list of questions.
+
+
+
+
+Third, a reading of the transcript of respondent Committees' January 30, 2008 proceeding reveals that only a minority of the members of the Senate Blue Ribbon Committee was present during the deliberation. 61 Section 18 of the Rules of Procedure Governing Inquiries in Aid of Legislation provides that:
+
+
+
+
+
+"The Committee, by a vote of majority of all its members, may punish for contempt any witness before it who disobeys any order of the Committee or refuses to be sworn or to testify or to answer proper questions by the Committee or any of its members."
+
+
+
+
+
+Clearly, the needed vote is a majority of all the members of the Committee. Apparently, members who did not actually participate in the deliberation were made to sign the contempt Order. Thus, there is a cloud of doubt as to the validity of the contempt Order dated January 30, 2008. We quote the pertinent portion of the transcript, thus:
+
+
+
+
+
+THE CHAIRMAN (SEN. CAYETANO, A). For clarification. x x x The Chair will call either a caucus or will ask the Committee on Rules if there is a problem. Meaning, if we do not have the sufficient numbers. But if we have a sufficient number, we will just hold a caucus to be able to implement that right away because�Again, our Rules provide that any one held in contempt and ordered arrested, need the concurrence of a majority of all members of the said committee and we have three committees conducting this.
+
+
+
+
+So thank you very much to the members�
+
+
+
+
+SEN. PIMENTEL. Mr. Chairman.
+
+
+
+
+THE CHAIRMAN (SEN. CAYETANO,A). May I recognize the Minority Leader and give him the floor, Senator Pimentel.
+
+
+
+
+SEN. PIMENTEL. Mr. Chairman, there is no problem, I think, with consulting the other committees. But I am of the opinion that the Blue Ribbon Committee is the lead committee, and therefore, it should have preference in enforcing its own decisions. Meaning to say, it is not something that is subject to consultation with other committees. I am not sure that is the right interpretation. I think that once we decide here, we enforce what we decide, because otherwise, before we know it, our determination is watered down by delay and, you know, the so-called "consultation" that inevitably will have to take place if we follow the premise that has been explained.
+
+
+
+
+So my suggestion, Mr. Chairman, is the Blue Ribbon Committee should not forget it's the lead committee here, and therefore, the will of the lead committee prevails over all the other, you, know reservations that other committees might have who are only secondary or even tertiary committees, Mr. Chairman.
+
+
+
+
+THE CHAIRMAN (SEN. CAYETANO, A.) Thank you very much to the Minority Leader. And I agree with the wisdom of his statements. I was merely mentioning that under Section 6 of the Rules of the Committee and under Section 6, "The Committee by a vote of a majority of all its members may punish for contempt any witness before it who disobeys any order of the Committee."
+
+
+
+
+So the Blue Ribbon Committee is more than willing to take that responsibility. But we only have six members here today, I am the seventh as chair and so we have not met that number. So I am merely stating that, sir, that when we will prepare the documentation, if a majority of all members sign and I am following the Sabio v. Gordon rule wherein I do believe, if I am not mistaken, Chairman Gordon prepared the documentation and then either in caucus or in session asked the other members to sign. And once the signatures are obtained, solely for the purpose that Secretary Neri or Mr. Lozada will not be able to legally question our subpoena as being insufficient in accordance with law.
+
+
+
+
+SEN. PIMENTEL. Mr. Chairman, the caution that the chair is suggesting is very well-taken. But I'd like to advert to the fact that the quorum of the committee is only two as far as I remember. Any two-member senators attending a Senate committee hearing provide that quorum, and therefore there is more than a quorum demanded by our Rules as far as we are concerned now, and acting as Blue Ribbon Committee, as Senator Enrile pointed out. In any event, the signatures that will follow by the additional members will only tend to strengthen the determination of this Committee to put its foot forward � put down on what is happening in this country, Mr. Chairman, because it really looks terrible if the primary Committee of the Senate, which is the Blue Ribbon Committee, cannot even sanction people who openly defy, you know, the summons of this Committee. I know that the Chair is going through an agonizing moment here. I know that. But nonetheless, I think we have to uphold, you know, the institution that we are representing because the alternative will be a disaster for all of us, Mr. Chairman. So having said that, I'd like to reiterate my point.
+
+
+
+
+THE CHAIRMAN (SEN. CAYETANO, A.) First of all, I agree 100 percent with the intentions of the Minority Leader. But let me very respectfully disagree with the legal requirements. Because, yes, we can have a hearing if we are only two but both under Section 18 of the Rules of the Senate and under Section 6 of the Rules of the Blue Ribbon Committee, there is a need for a majority of all members if it is a case of contempt and arrest. So, I am simply trying to avoid the court rebuking the Committee, which will instead of strengthening will weaken us. But I do agree, Mr. Minority Leader, that we should push for this and show the executive branch that the well-decided � the issue has been decided upon the Sabio versus Gordon case. And it's very clear that we are all allowed to call witnesses. And if they refure or they disobey not only can we cite them in contempt and have them arrested. x x x 62
+
+
+
+
+
+Fourth, we find merit in the argument of the OSG that respondent Committees likewise violated Section 21 of Article VI of the Constitution, requiring that the inquiry be in accordance with the "duly published rules of procedure." We quote the OSG's explanation:
+
+
+
+
+
+The phrase 'duly published rules of procedure' requires the Senate of every Congress to publish its rules of procedure governing inquiries in aid of legislation because every Senate is distinct from the one before it or after it. Since Senatorial elections are held every three (3) years for one-half of the Senate's membership, the composition of the Senate also changes by the end of each term. Each Senate may thus enact a different set of rules as it may deem fit. Not having published its Rules of Procedure, the subject hearings in aid of legislation conducted by the 14th Senate, are therefore, procedurally infirm.
+
+
+
+
+
+And fifth, respondent Committees' issuance of the contempt Order is arbitrary and precipitate. It must be pointed out that respondent Committees did not first pass upon the claim of executive privilege and inform petitioner of their ruling. Instead, they curtly dismissed his explanation as "unsatisfactory" and simultaneously issued the Order citing him in contempt and ordering his immediate arrest and detention.
+
+
+
+
+A fact worth highlighting is that petitioner is not an unwilling witness. He manifested several times his readiness to testify before respondent Committees. He refused to answer the three (3) questions because he was ordered by the President to claim executive privilege. It behooves respondent Committees to first rule on the claim of executive privilege and inform petitioner of their finding thereon, instead of peremptorily dismissing his explanation as "unsatisfactory." Undoubtedly, respondent Committees' actions constitute grave abuse of discretion for being arbitrary and for denying petitioner due process of law. The same quality afflicted their conduct when they (a) disregarded petitioner's motion for reconsideration alleging that he had filed the present petition before this Court and (b) ignored petitioner's repeated request for an advance list of questions, if there be any aside from the three (3) questions as to which he claimed to be covered by executive privilege.
+
+
+
+
+Even the courts are repeatedly advised to exercise the power of contempt judiciously and sparingly with utmost self-restraint with the end in view of utilizing the same for correction and preservation of the dignity of the court, not for retaliation or vindication.63 Respondent Committees should have exercised the same restraint, after all petitioner is not even an ordinary witness. He holds a high position in a co-equal branch of government.
+
+
+
+
+In this regard, it is important to mention that many incidents of judicial review could have been avoided if powers are discharged with circumspection and deference. Concomitant with the doctrine of separation of powers is the mandate to observe respect to a co-equal branch of the government.
+
+
+
+
+One last word.
+
+
+
+
+The Court was accused of attempting to abandon its constitutional duty when it required the parties to consider a proposal that would lead to a possible compromise. The accusation is far from the truth. The Court did so, only to test a tool that other jurisdictions find to be effective in settling similar cases, to avoid a piecemeal consideration of the questions for review and to avert a constitutional crisis between the executive and legislative branches of government.
+
+
+
+
+In United States v. American Tel. & Tel Co.,64 the court refrained from deciding the case because of its desire to avoid a resolution that might disturb the balance of power between the two branches and inaccurately reflect their true needs. Instead, it remanded the record to the District Court for further proceedings during which the parties are required to negotiate a settlement. In the subsequent case of United States v. American Tel. &Tel Co.,65 it was held that "much of this spirit of compromise is reflected in the generality of language found in the Constitution." It proceeded to state:
+
+
+
+
+
+Under this view, the coordinate branches do not exist in an exclusively adversary relationship to one another when a conflict in authority arises. Rather each branch should take cognizance of an implicit constitutional mandate to seek optimal accommodation through a realistic evaluation of the needs of the conflicting branches in the particular fact situation.
+
+
+
+
+
+It thereafter concluded that: "The Separation of Powers often impairs efficiency, in terms of dispatch and the immediate functioning of government. It is the long-term staying power of government that is enhanced by the mutual accommodation required by the separation of powers."
+
+
+
+
+In rendering this decision, the Court emphasizes once more that the basic principles of constitutional law cannot be subordinated to the needs of a particular situation. As magistrates, our mandate is to rule objectively and dispassionately, always mindful of Mr. Justice Holmes' warning on the dangers inherent in cases of this nature, thus:
+
+
+
+
+
+"some accident of immediate and overwhelming interest�appeals to the feelings and distorts the judgment. These immediate interests exercise a kind of hydraulic pressure which makes what previously was clear seem doubtful, and before which even well settled principles of law will bend."66
+
+
+
+
+
+In this present crusade to "search for truth," we should turn to the fundamental constitutional principles which underlie our tripartite system of government, where the Legislature enacts the law, the Judiciary interprets it and the Executive implements it. They are considered separate, co-equal, coordinate and supreme within their respective spheres but, imbued with a system of checks and balances to prevent unwarranted exercise of power. The Court's mandate is to preserve these constitutional principles at all times to keep the political branches of government within constitutional bounds in the exercise of their respective powers and prerogatives, even if it be in the search for truth. This is the only way we can preserve the stability of our democratic institutions and uphold the Rule of Law.
+
+
+
+
+WHEREFORE, the petition is hereby GRANTED. The subject Order dated January 30, 2008, citing petitioner Romulo L. Neri in contempt of the Senate Committees and directing his arrest and detention, is hereby nullified.
+
+
+
+
+SO ORDERED.
+
+
+
+
+Puno, C.J., Quisumbing, Ynares-Santiago, Carpio, Austria-Martinez, Corona, Carpio-Morales, Azcuna, Tinga, Chico-Nazario, Velasco, Jr., Nachura, Reyes, Brion, JJ., concur.
+
+
+
+
+
+
+Footnotes
+
+
+
+
+
+1 Rollo, pp. 12-14.
+
+
+
+
+2 Rollo, pp. 85-86. Through the Supplemental Petition for Certiorari (With Urgent Application for Temporary Restraining Order/Preliminary Injunction).
+
+
+
+
+3 Chaired by Hon. Senator Alan Peter S. Cayetano.
+
+
+
+
+4 Chaired by Hon. Senator Manuel A. Roxas II.
+
+
+
+
+5 Chaired by Hon. Senator Rodolfo G. Biazon.
+
+
+
+
+6 Transcript of the September 26, 2007 Hearing of the respondent Committees, pp.91-92.
+
+
+
+
+7 Id., pp. 114-115.
+
+
+
+
+8 Id., pp. 276-277.
+
+
+
+
+9 See Letter dated January 30, 2008.
+
+
+
+
+10 488 SCRA 1 (2006).
+
+
+
+
+11 345 U.S. 1 (1953).
+
+
+
+
+12 Section 7. Prohibited Acts and Transactions. � In addition to acts and omissions of public officials and employees now prescribed in the Constitution and existing laws, the following shall constitute prohibited acts and transactions of any public official and employee and are hereby declared to be unlawful: x x x
+
+
+
+
+(c) Disclosure and/or misuse of confidential information. -
+
+
+
+
+
+Public officials and employees shall not use or divulge, confidential or classified information officially known to them by reason of their office and not made available to the public, either:
+
+
+
+
+
+(1) To further their private interests, or give undue advantage to anyone; or
+
+
+
+
+(2) To prejudice the public interest.
+
+
+
+
+
+
+13 SEC. 24. Disqualification by reason of privileged communication. � The following persons cannot testify as to matters learned in confidence in the following cases. (e) A public officer cannot be examined during his term of office or afterwards, as to communications made to him in official confidence, when the court finds that the public interest would suffer by disclosure.
+
+
+
+
+14 TSN of the Oral Argument, March 4, 2008, p. 455.
+
+
+
+
+15 (1) Minutes of all meetings of the three (3) committees held in January and February, 2008; (2) Notice for joint meeting of three (3) committees held on 30 January 2008 duly received by the members of the committees; (3) Minute Books of the three (3) committees; (4) Composition of the three (3) committees; and (5) Other documents required of them in the course of the oral argument.
+
+
+
+
+16 See Manifestation, rollo, pp.170-174.
+
+
+
+
+17 Supra..
+
+
+
+
+18 Supra.
+
+
+
+
+19 Ibid.
+
+
+
+
+20 Ibid.
+
+
+
+
+21 Arnault v. Nazareno, 87 Phil 32 (1950)
+
+
+
+
+22 Senate v. Ermita, p. 58.
+
+
+
+
+23 5 U.S. C. � 552
+
+
+
+
+24 51 U.S. C. app.
+
+
+
+
+25 433 Phil. 506 (2002).
+
+
+
+
+26 G.R. No. 130716, December 9, 1998, (360 SCRA 132 ).
+
+
+
+
+27 Supra.
+
+
+
+
+28 CRS Report for Congress, Presidential Claims of Executive Privilege: History, Law, Practice and Recent Developments at p. 2.
+
+
+
+
+29 418 U.S. 683.
+
+
+
+
+30 In Re: Sealed Case No. 96-3124, June 17, 1997.
+
+
+
+
+31 Id.
+
+
+
+
+32 CRS Report for Congress, Presidential Claims of Executive Privilege: History, Law, Practice and Recent Developments at pp. 18-19.
+
+
+
+
+33 365 F.3d 1108, 361 U.S.App.D.C. 183, 64 Fed. R. Evid. Serv. 141.
+
+
+
+
+34 See United States v. Reynolds, 345 U.S. 1, 6-8 (1953); Chicago v. Airlines, Inc. v. Waterman Steamship Corp., 333 U.S. 103, 111; Totten v. United States, 92 U.S. 105, 106-107 (1875).
+
+
+
+
+35 Roviaro v. United States, 353 U.S. 53, 59-61.
+
+
+
+
+36 See Friedman v. Bache Halsey Stuart Shields, Inc. 738 F. 2d 1336,1341-43 (D.C. Cir. 1984).
+
+
+
+
+37 14 F. Supp. 230, 299 U.S. 304 (1936).
+
+
+
+
+38 360 Phil. 133 (1998).
+
+
+
+
+39 Supra.
+
+
+
+
+40 Section 18, Article VII.
+
+
+
+
+41 Section 16, Article VII.
+
+
+
+
+42 Section 19, Article VII.
+
+
+
+
+43 Section 20 and 21, Article VII.
+
+
+
+
+44 CRS Report for Congress, Presidential Claims of Executive Privilege: History, Law Practice and Recent Developments, supra..
+
+
+
+
+45 Bernas, S.J., The 1987 Constitution of the Republic of the Philippines, A Commentary, 2003 Ed. p. 903.
+
+
+
+
+46 159 U.S. App. DC. 58, 487 F. 2d 700 (D.C. Cir. 1973).
+
+
+
+
+47 U.S. v. Nixon, 418 U.S. 683 (1974)
+
+
+
+
+48 Supra.
+
+
+
+
+49 498 F. 2d 725 (D.C. Cir.1974).
+
+
+
+
+50 Citing Section 7, Article 3 of the Constitution.
+
+
+
+
+51 Section 7. Prohibited Acts and Transactions. � In addition to acts and omissions of public officials and employees now prescribed in the Constitution and existing laws, the following shall constitute prohibited acts and transactions of any public official and employee and are hereby declared to be unlawful: x x x
+
+
+
+
+
+( c) Disclosure and/or misuse of confidential information. - Public officials and employees shall not use or divulge, confidential or classified information officially known to them by reason of their office and not made available to the public, either:
+
+
+
+
+
+(1) To further their private interests, or give undue advantage to anyone; or
+
+
+
+
+(2) To prejudice the public interest.
+
+
+
+
+
+
+52 Article 229. Revelation of secrets by an officer. � Any public officer who shall reveal any secret known to him by reason of his official capacity, or shall wrongfully deliver papers or copies of papers of which he may have charge and which should not be published, shall suffer the penalties of prision correccional in its medium and maximum periods, perpetual special disqualification and a fine not exceeding 2,000 pesos if the revelation of such secrets or the delivery of such papers shall have caused serious damage to the public interest; otherwise, the penalties of prision correccional in its minimum period, temporary special disqualification and a fine not exceeding 500 pesos shall be imposed.
+
+
+
+
+53 Section 3. Corrupt practices of public officers. � In addition to acts or omissions of public officers already penalized by existing law, the following shall constitute corrupt practices of any public officer and are hereby declared to be unlawful:
+
+
+
+
+(k) Divulging valuable information of a confidential character, acquired by his office or by him on account of his official position to unauthorized persons, or releasing such information in advance of its authorized release date.
+
+
+
+
+54 Sec. 24. Disqualification by reason of privileged communications. � The following persons cannot testify as to matters learned in confidence in the following case: x x x
+
+
+
+
+(a) A public officer cannot be examined during his term of office or afterwards, as to communications made to him in official confidence, when the court finds that the public interest would suffer by the disclosure.
+
+
+
+
+55 In Chavez v. Public Estates Authority, supra., the Supreme Court recognized matters which the Court has long considered as confidential such as "information on military and diplomatic secrets, information affecting national security, and information on investigations of crimes by law enforcement agencies before the prosecution of the accused." It also stated that "presidential conversations, correspondences, or discussions during close-door cabinet meetings which, like internal deliberations of the Supreme Court or other collegiate courts, or executive sessions of either House of Congress, are recognized as confidential. Such information cannot be pried-open by a co-equal branch of government.
+
+
+
+
+56 United States v. Reynolds, supra..
+
+
+
+
+57 Unites States v. Article of Drug, 43 F.R.D. at 190.
+
+
+
+
+58 Senate v. Ermita, supra., p. 63.
+
+
+
+
+59 Id., citing U.S. v. Reynolds, 345 U.S. 1, 73 S. Ct. 528, 97 L. Ed. 727, 32 A.L. R. 2d 382 (1953).
+
+
+
+
+60 Freedom from Debt Coalition v. Energy Regulatory Commission, G.R. No. 161113. June 15, 2004.
+
+
+
+
+61 Trancript of the January 30, 2008 proceedings, p. 29.
+
+
+
+
+62 Trancript of the January 30, 2008 Proceeding of the respondent Senate Committees, pp. 26-31.
+
+
+
+
+63 Rodriguez v. Judge Bonifacio, A.M. No. RTJ-99-1510, November 6, 2000, 344 SCRA 519.
+
+
+
+
+64 179 U.S. App. Supp. D.C. 198, 551 F 2d. 384 (1976).
+
+
+
+
+65 567 F 2d 121 (1977).
+
+
+
+
+66 Northern Securities Co. v. United States, 193 U.S. 197, 48 L. Ed. 679, 24 S Ct. 436 (1904).
