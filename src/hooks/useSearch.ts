@@ -1,10 +1,11 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
-import type { LegalCase, AutocompleteSuggestion } from '../types/case'
+import type { AutocompleteSuggestion } from '../types/case'
+import type { CaseIndex } from '../utils/dataStore'
 import { search, getAutocompleteSuggestions } from '../utils/searchEngine'
 
 export function useSearch() {
   const [query, setQuery] = useState('')
-  const [results, setResults] = useState<LegalCase[]>([])
+  const [results, setResults] = useState<CaseIndex[]>([])
   const [suggestions, setSuggestions] = useState<AutocompleteSuggestion[]>([])
   const [isSearching, setIsSearching] = useState(false)
   const timerRef = useRef<ReturnType<typeof setTimeout>>()
@@ -17,10 +18,8 @@ export function useSearch() {
       return
     }
 
-    // Immediate autocomplete suggestions
     setSuggestions(getAutocompleteSuggestions(query))
 
-    // Debounced full search
     clearTimeout(timerRef.current)
     setIsSearching(true)
     timerRef.current = setTimeout(() => {

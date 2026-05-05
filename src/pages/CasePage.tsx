@@ -3,41 +3,49 @@ import { useState, useEffect, useCallback } from 'react'
 import type { LegalCase } from '../types/case'
 import { formatDate, formatCitation } from '../utils/helpers'
 import DecisionText from '../components/DecisionText'
-import casesData from '../data/cases.json'
-
-const allCases = casesData as LegalCase[]
-const casesMap = new Map(allCases.map(c => [c.id, c]))
+import { loadCase, loadFullDecision as fetchFullDecision, getIndex } from '../utils/dataStore'
 
 type FullTextState = { status: 'idle' } | { status: 'loading' } | { status: 'loaded'; text: string } | { status: 'error' }
 
 export default function CasePage() {
   const { id } = useParams<{ id: string }>()
   const navigate = useNavigate()
+  const [c, setCase] = useState<LegalCase | null>(null)
+  const [loading, setLoading] = useState(true)
   const [copied, setCopied] = useState(false)
   const [showFullText, setShowFullText] = useState(false)
   const [fullDecision, setFullDecision] = useState<FullTextState>({ status: 'idle' })
 
-  const loadFullDecision = useCallback(async () => {
-    if (fullDecision.status === 'loading' || fullDecision.status === 'loaded') return
+  // Load case data
+  useEffect(() => {
+    if (!id) return
+    setLoading(true)
+    setFullDecision({ status: 'idle' })
+    setShowFullText(false)
+    loadCase(id).then(data => {
+      setCase(data)
+      setLoading(false)
+    })
+  }, [id])
+
+  const loadFullText = useCallback(async () => {
+    if (!id || fullDecision.status === 'loading' || fullDecision.status === 'loaded') return
     setFullDecision({ status: 'loading' })
-    try {
-      const base = import.meta.env.BASE_URL || '/'
-      const res = await fetch(`${base}decisions/${id}.txt`)
-      if (!res.ok) throw new Error('Not found')
-      const text = await res.text()
+    const text = await fetchFullDecision(id)
+    if (text) {
       setFullDecision({ status: 'loaded', text })
-    } catch {
+    } else {
       setFullDecision({ status: 'error' })
     }
   }, [id, fullDecision.status])
 
-  // Reset when case changes
-  useEffect(() => {
-    setFullDecision({ status: 'idle' })
-    setShowFullText(false)
-  }, [id])
-
-  const c = id ? casesMap.get(id) : undefined
+  if (loading) {
+    return (
+      <div className="max-w-5xl mx-auto px-6 py-16 flex justify-center">
+        <div className="w-6 h-6 border-2 border-amber-400 border-t-transparent rounded-full animate-spin" />
+      </div>
+    )
+  }
 
   if (!c) {
     return (
@@ -50,9 +58,10 @@ export default function CasePage() {
     )
   }
 
+  const indexMap = new Map(getIndex().map(x => [x.id, x]))
   const relatedCases = c.relatedCases
-    .map(rid => casesMap.get(rid))
-    .filter((rc): rc is LegalCase => !!rc)
+    .map(rid => indexMap.get(rid))
+    .filter(Boolean)
 
   const year = new Date(c.date).getFullYear()
 
@@ -199,7 +208,7 @@ export default function CasePage() {
                   <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-white to-transparent" />
                 </div>
                 <button
-                  onClick={() => { setShowFullText(true); loadFullDecision() }}
+                  onClick={() => { setShowFullText(true); loadFullText() }}
                   className="mt-3 inline-flex items-center gap-2 px-4 py-2 bg-slate-900 text-white text-sm rounded-lg hover:bg-slate-800 transition-colors"
                 >
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">

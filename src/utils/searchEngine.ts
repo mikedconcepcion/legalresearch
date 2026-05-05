@@ -1,14 +1,15 @@
 import { Document } from 'flexsearch'
-import type { LegalCase, AutocompleteSuggestion } from '../types/case'
+import type { AutocompleteSuggestion } from '../types/case'
+import type { CaseIndex } from './dataStore'
 
 let docIndex: InstanceType<typeof Document> | null = null
-let casesMap: Map<string, LegalCase> = new Map()
-let allCases: LegalCase[] = []
+let casesMap: Map<string, CaseIndex> = new Map()
+let allCases: CaseIndex[] = []
 let allTopics: string[] = []
 let allPonentes: string[] = []
 let allStatutes: string[] = []
 
-export function initSearchEngine(cases: LegalCase[]) {
+export function initSearchEngine(cases: CaseIndex[]) {
   allCases = cases
   casesMap = new Map(cases.map(c => [c.id, c]))
 
@@ -53,7 +54,7 @@ export function initSearchEngine(cases: LegalCase[]) {
   }
 }
 
-export function search(query: string, limit = 20): LegalCase[] {
+export function search(query: string, limit = 20): CaseIndex[] {
   if (!docIndex || !query.trim()) return []
 
   const q = query.trim()
@@ -120,7 +121,7 @@ export function search(query: string, limit = 20): LegalCase[] {
   return results.slice(0, limit)
 }
 
-function searchRaw(query: string, limit: number): LegalCase[] {
+function searchRaw(query: string, limit: number): CaseIndex[] {
   if (!docIndex) return []
   const raw = docIndex.search(query, { limit })
   const seen = new Set<string>()

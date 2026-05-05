@@ -81,3 +81,30 @@
 | 07:39 | Edited vite.config.ts | "/Legal_Research/" → "/legalresearch/" | ~8 |
 | 07:40 | Created .github/workflows/deploy.yml | — | ~206 |
 | 07:40 | Edited .gitignore | 1→4 lines | ~12 |
+| 07:41 | Edited .github/workflows/deploy.yml | 20 → 22 | ~8 |
+| 07:42 | Edited .github/workflows/deploy.yml | inline fix | ~7 |
+| 07:43 | Session end: 61 writes across 23 files (temporal-wibbling-nygaard.md, vite.config.ts, index.css, case.ts, cases.json) | 20 reads | ~158078 tok |
+| 10:08 | Edited src/data/cases.json | expanded (+288 lines) | ~9681 |
+| 10:09 | Session end: 62 writes across 23 files (temporal-wibbling-nygaard.md, vite.config.ts, index.css, case.ts, cases.json) | 20 reads | ~183905 tok |
+| 10:35 | Created scripts/build-db.mjs | — | ~350 |
+| 10:36 | Created src/utils/dataStore.ts | — | ~311 |
+| 10:36 | Created src/App.tsx | — | ~396 |
+| 10:36 | Edited src/utils/searchEngine.ts | added 1 import(s) | ~142 |
+| 10:36 | Edited src/utils/searchEngine.ts | inline fix | ~19 |
+| 10:36 | Edited src/utils/searchEngine.ts | inline fix | ~18 |
+| 10:37 | Created src/hooks/useSearch.ts | — | ~343 |
+| 10:37 | Edited src/pages/HomePage.tsx | modified HomePage() | ~117 |
+| 10:37 | Edited src/pages/SearchPage.tsx | 14→11 lines | ~96 |
+| 10:37 | Edited src/pages/SearchPage.tsx | 1→2 lines | ~25 |
+| 10:37 | Edited src/pages/TopicPage.tsx | 8→5 lines | ~66 |
+| 10:38 | Edited src/pages/TopicPage.tsx | modified TopicPage() | ~34 |
+| 10:38 | Edited src/pages/CasePage.tsx | added 2 condition(s) | ~600 |
+| 10:38 | Edited src/pages/CasePage.tsx | 3→4 lines | ~44 |
+| 10:38 | Edited src/pages/CasePage.tsx | inline fix | ~17 |
+| 10:38 | Edited src/components/CaseCard.tsx | 6→6 lines | ~57 |
+| 10:39 | Edited src/components/Sidebar.tsx | 6→6 lines | ~66 |
+| 10:39 | Edited src/utils/helpers.ts | 1→3 lines | ~31 |
+| 10:39 | Edited src/utils/helpers.ts | inline fix | ~5 |
+| 10:39 | Edited src/pages/HomePage.tsx | inline fix | ~30 |
+| 10:39 | Edited src/pages/HomePage.tsx | inline fix | ~18 |
+| 10:39 | Edited package.json | 7→8 lines | ~64 |

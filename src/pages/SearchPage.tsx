@@ -1,15 +1,12 @@
-import { useOutletContext, useSearchParams } from 'react-router-dom'
-import type { LegalCase } from '../types/case'
-import casesData from '../data/cases.json'
+import { useOutletContext } from 'react-router-dom'
 import CaseCard from '../components/CaseCard'
 import Sidebar from '../components/Sidebar'
 import { useState, useMemo } from 'react'
-
-const allCases = casesData as LegalCase[]
+import { getIndex, type CaseIndex } from '../utils/dataStore'
 
 interface OutletContext {
   query: string
-  results: LegalCase[]
+  results: CaseIndex[]
   isSearching: boolean
 }
 
@@ -19,6 +16,7 @@ export default function SearchPage() {
   const { query, results, isSearching } = useOutletContext<OutletContext>()
   const [sort, setSort] = useState<SortKey>('relevance')
 
+  const allCases = getIndex()
   const displayCases = query.trim() ? results : allCases
 
   const sortedCases = useMemo(() => {

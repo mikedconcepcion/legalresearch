@@ -1,13 +1,14 @@
 # anatomy.md
 
-> Auto-maintained by OpenWolf. Last scanned: 2026-05-04T23:40:27.130Z
-> Files: 26 tracked | Anatomy hits: 0 | Misses: 0
+> Auto-maintained by OpenWolf. Last scanned: 2026-05-05T02:39:59.558Z
+> Files: 29 tracked | Anatomy hits: 0 | Misses: 0
 
 ## ./
 
 - `.gitignore` — Git ignore rules (~78 tok)
 - `CLAUDE.md` — OpenWolf (~57 tok)
 - `index.html` — LawPhilSearch — Philippine Legal Research Portal (~162 tok)
+- `package.json` — Node.js package manifest (~260 tok)
 - `vite.config.ts` (~63 tok)
 
 ## .claude/
@@ -20,7 +21,7 @@
 
 ## .github/workflows/
 
-- `deploy.yml` — CI: Deploy to GitHub Pages (~206 tok)
+- `deploy.yml` — CI: Deploy to GitHub Pages (~208 tok)
 
 ## C:/Users/miked/.claude/plans/
 
@@ -28,35 +29,36 @@
 
 ## scripts/
 
+- `build-db.mjs` — Build static database files from cases.json (~350 tok)
 - `scrape-lawphil.mjs` — LawPhil Full-Text Scraper (~3375 tok)
 
 ## src/
 
-- `App.tsx` — allCases (~274 tok)
+- `App.tsx` — App (~396 tok)
 - `index.css` — Styles: 1 rules (~7 tok)
 
 ## src/components/
 
-- `CaseCard.tsx` — HighlightedText (~856 tok)
+- `CaseCard.tsx` — HighlightedText (~857 tok)
 - `DecisionText.tsx` — DecisionText (~860 tok)
 - `Layout.tsx` — Layout (~1779 tok)
 - `SearchBar.tsx` — TYPE_LABELS (~1733 tok)
-- `Sidebar.tsx` — Sidebar (~898 tok)
+- `Sidebar.tsx` — Sidebar (~900 tok)
 
 ## src/data/
 
-- `cases.json` — Declares suit (~57631 tok)
+- `cases.json` — Declares suit (~67979 tok)
 
 ## src/hooks/
 
-- `useSearch.ts` — Exports useSearch (~352 tok)
+- `useSearch.ts` — Exports useSearch (~343 tok)
 
 ## src/pages/
 
-- `CasePage.tsx` — allCases (~4760 tok)
-- `HomePage.tsx` — allCases (~3590 tok)
-- `SearchPage.tsx` — allCases (~852 tok)
-- `TopicPage.tsx` — allCases (~860 tok)
+- `CasePage.tsx` — CasePage (~4832 tok)
+- `HomePage.tsx` — HomePage (~3579 tok)
+- `SearchPage.tsx` — SearchPage (~835 tok)
+- `TopicPage.tsx` — TopicPage (~844 tok)
 
 ## src/types/
 
@@ -65,5 +67,6 @@
 ## src/utils/
 
 - `categories.ts` — Exports LawCategory, LAW_CATEGORIES, getCategoryForTopic, getCategoryColor (~1746 tok)
-- `helpers.ts` — Exports formatDate, formatCitation, getTopicCounts, getCourtCounts + 2 more (~597 tok)
-- `searchEngine.ts` — Exports initSearchEngine, search, getAutocompleteSuggestions (~1529 tok)
+- `dataStore.ts` — Exports CaseIndex, loadIndex, loadCase, loadFullDecision, getIndex (~311 tok)
+- `helpers.ts` — Exports formatDate, formatCitation, getTopicCounts, getCourtCounts + 2 more (~614 tok)
+- `searchEngine.ts` — Exports initSearchEngine, search, getAutocompleteSuggestions (~1538 tok)

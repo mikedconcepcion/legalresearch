@@ -1,15 +1,13 @@
 import { useParams, Link } from 'react-router-dom'
-import type { LegalCase } from '../types/case'
-import casesData from '../data/cases.json'
 import CaseCard from '../components/CaseCard'
 import Sidebar from '../components/Sidebar'
 import { useState, useMemo } from 'react'
-
-const allCases = casesData as LegalCase[]
+import { getIndex } from '../utils/dataStore'
 
 type SortKey = 'date-desc' | 'date-asc' | 'title'
 
 export default function TopicPage() {
+  const allCases = getIndex()
   const { topic } = useParams<{ topic: string }>()
   const decodedTopic = topic ? decodeURIComponent(topic) : ''
   const [sort, setSort] = useState<SortKey>('date-desc')

@@ -1,15 +1,13 @@
 import { Link, useNavigate } from 'react-router-dom'
-import { useState } from 'react'
-import type { LegalCase, AutocompleteSuggestion } from '../types/case'
+import type { AutocompleteSuggestion } from '../types/case'
 import { useSearch } from '../hooks/useSearch'
 import SearchBar from '../components/SearchBar'
 import { LAW_CATEGORIES } from '../utils/categories'
-import casesData from '../data/cases.json'
-
-const allCases = casesData as LegalCase[]
+import { getIndex, type CaseIndex } from '../utils/dataStore'
 
 export default function HomePage() {
   const navigate = useNavigate()
+  const allCases = getIndex()
   const { query, setQuery, suggestions, isSearching, clearSearch, results } = useSearch()
 
   const uniquePonentes = new Set(allCases.map(c => c.ponente)).size
@@ -52,7 +50,7 @@ export default function HomePage() {
 
   // Featured landmark cases
   const featuredIds = ['gr-l-45081-1936', 'gr-101083-1993', 'gr-208566-2013', 'gr-204819-2014']
-  const featured = featuredIds.map(id => allCases.find(c => c.id === id)).filter(Boolean) as LegalCase[]
+  const featured = featuredIds.map(id => allCases.find(c => c.id === id)).filter(Boolean) as CaseIndex[]
 
   return (
     <div>

@@ -1,9 +1,9 @@
 import { Link } from 'react-router-dom'
-import type { LegalCase } from '../types/case'
 import { formatDate, highlightText } from '../utils/helpers'
+import type { CaseIndex } from '../utils/dataStore'
 
 interface CaseCardProps {
-  case_: LegalCase
+  case_: CaseIndex
   query?: string
   compact?: boolean
 }

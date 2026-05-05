@@ -1,5 +1,7 @@
 import type { LegalCase } from '../types/case'
 
+type CaseLike = Pick<LegalCase, 'topics' | 'court' | 'date'>
+
 export function formatDate(dateStr: string): string {
   return new Date(dateStr).toLocaleDateString('en-PH', {
     year: 'numeric',
@@ -12,7 +14,7 @@ export function formatCitation(c: LegalCase): string {
   return `${c.title}, ${c.grNumber}, ${formatDate(c.date)} (${c.court})`
 }
 
-export function getTopicCounts(cases: LegalCase[]): Map<string, number> {
+export function getTopicCounts(cases: CaseLike[]): Map<string, number> {
   const counts = new Map<string, number>()
   for (const c of cases) {
     for (const t of c.topics) {
@@ -22,7 +24,7 @@ export function getTopicCounts(cases: LegalCase[]): Map<string, number> {
   return new Map([...counts.entries()].sort((a, b) => b[1] - a[1]))
 }
 
-export function getCourtCounts(cases: LegalCase[]): Map<string, number> {
+export function getCourtCounts(cases: CaseLike[]): Map<string, number> {
   const counts = new Map<string, number>()
   for (const c of cases) {
     counts.set(c.court, (counts.get(c.court) || 0) + 1)
@@ -30,7 +32,7 @@ export function getCourtCounts(cases: LegalCase[]): Map<string, number> {
   return new Map([...counts.entries()].sort((a, b) => b[1] - a[1]))
 }
 
-export function getYearRange(cases: LegalCase[]): [number, number] {
+export function getYearRange(cases: CaseLike[]): [number, number] {
   const years = cases.map(c => new Date(c.date).getFullYear())
   return [Math.min(...years), Math.max(...years)]
 }

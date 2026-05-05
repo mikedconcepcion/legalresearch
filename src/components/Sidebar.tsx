@@ -1,9 +1,9 @@
 import { Link, useLocation } from 'react-router-dom'
-import type { LegalCase } from '../types/case'
 import { getTopicCounts, getCourtCounts, getYearRange } from '../utils/helpers'
+import type { CaseIndex } from '../utils/dataStore'
 
 interface SidebarProps {
-  cases: LegalCase[]
+  cases: CaseIndex[]
   activeTopic?: string
 }
 
